@@ -1,0 +1,17 @@
+{
+  "name": "fire1/uby-one",
+  "description": "Web ui for hotspot ",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "fire1",
+      "email": "fire1@abv.bg"
+    }
+  ],
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {"UbyOne\\": "src/"}
+  }
+}
